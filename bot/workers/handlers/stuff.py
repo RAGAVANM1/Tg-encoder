@@ -125,7 +125,7 @@ async def start(event, args, client):
                 ),
                 Button.url("Anime Channel", url="t.me/addlist/KTvZylZUxrZlYWRh"),
             ],
-            [Button.url("Leech Group", url="t.me/SourcePleaseML")],
+            [Button.url("Leech Group", url="t.me/SourcePleaseMLGP")],
         ],
     )
 
@@ -171,12 +171,12 @@ async def beck(event):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "Update Channel",
+                    url="t.me/SourcePleaseOfficial",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("Anime Channel", url="t.me/addlist/KTvZylZUxrZlYWRh"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("Leech Group", url="t.me/SourcePleaseMLGP")],
         ],
     )
 
