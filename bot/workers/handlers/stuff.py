@@ -168,15 +168,7 @@ async def beck(event):
     await event.edit(
         msg,
         buttons=[
-            [Button.inline("Help", data="ihelp")],
-            [
-                Button.url(
-                    "Update Channel",
-                    url="t.me/SourcePleaseOfficial",
-                ),
-                Button.url("Anime Channel", url="t.me/addlist/KTvZylZUxrZlYWRh"),
-            ],
-            [Button.url("Leech Group", url="t.me/SourcePleaseMLGP")],
+            [Button.url("Owner", url="t.me/J_S_X_20")],
         ],
     )
 
