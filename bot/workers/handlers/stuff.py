@@ -117,7 +117,7 @@ async def start(event, args, client):
     await event.reply(
         msg,
         buttons=[
-            [Button.url("Leech Group", url="t.me/SourcePleaseMLGP")],
+            [Button.url("💝 Owner 💝", url="t.me/J_S_X_20")],
         ],
     )
 
