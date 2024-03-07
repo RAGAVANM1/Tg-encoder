@@ -117,14 +117,6 @@ async def start(event, args, client):
     await event.reply(
         msg,
         buttons=[
-            [Button.inline("Help", data="ihelp")],
-            [
-                Button.url(
-                    "Update Channel",
-                    url="t.me/SourcePleaseOfficial",
-                ),
-                Button.url("Anime Channel", url="t.me/addlist/KTvZylZUxrZlYWRh"),
-            ],
             [Button.url("Leech Group", url="t.me/SourcePleaseMLGP")],
         ],
     )
